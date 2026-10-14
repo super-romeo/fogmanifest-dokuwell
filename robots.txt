@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fogmanifest.dokuwell.com/sitemap.xml
